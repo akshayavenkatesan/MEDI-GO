@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769746749345",
+    "firebase_url": "https://ed-care.firebaseio.com",
+    "project_id": "ed-care",
+    "storage_bucket": "ed-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769746749345:android:91b634da6110e74b39ede0",
+        "android_client_info": {
+          "package_name": "com.example.ed_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769746749345-tq85k9rnrt1j1htgv71hqb11g4jum4st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ed_care",
+            "certificate_hash": "4fe244b275768e1fbd78a76cebf51b79e7115a4d"
+          }
+        },
+        {
+          "client_id": "769746749345-jjmjla5539m6eu14sl57hqtdk8tfji7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcAzBfo0LOf1gJkxdxmQF7M9qfiWbB1As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769746749345-jjmjla5539m6eu14sl57hqtdk8tfji7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

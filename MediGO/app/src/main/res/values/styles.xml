@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+       <!-- <item name="colorPrimary">@color/PocDocIcon</item>
+        <item name="colorPrimaryDark">@color/PocDocIcon</item> -->
+        <item name="colorPrimary">#3B78CE</item>
+        <item name="colorPrimaryDark">#3B78CE</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
